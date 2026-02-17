@@ -1,0 +1,1789 @@
+{
+  "last_updated": "2026-02-15T19:05:12.115013",
+  "state_data": {
+    "Alabama": {
+      "anxiety": 40,
+      "hope": 47,
+      "stress": 34,
+      "fear": 27,
+      "depression": 19,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 49,
+          "related_searches": [
+            "crime 101 reviews",
+            "crime 101 rotten tomatoes",
+            "kurt cobain crime scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 25,
+          "related_searches": [
+            "michigan unemployment employer login",
+            "how long does it take for unemployment to kick in",
+            "ohio unemployment sign in"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 5,
+          "related_searches": [
+            "inflation report",
+            "inflation report today",
+            "cpi inflation rate"
+          ]
+        }
+      ]
+    },
+    "Alaska": {
+      "anxiety": 1,
+      "hope": 3,
+      "stress": 2,
+      "fear": 3,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 9,
+          "related_searches": [
+            "wuthering heights movie",
+            "crime 101",
+            "crime 101 movie"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 2,
+          "related_searches": [
+            "alaska unemployment login"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Arizona": {
+      "anxiety": 46,
+      "hope": 40,
+      "stress": 39,
+      "fear": 35,
+      "depression": 32,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 63,
+          "related_searches": [
+            "good luck have fun don't die",
+            "crime 101 rating",
+            "how long is crime 101"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 27,
+          "related_searches": [
+            "how long does it take to get unemployment in az",
+            "how much is unemployment in arizona",
+            "nv unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 12,
+          "related_searches": [
+            "bls inflation calculator",
+            "inflation def",
+            "inflation report today"
+          ]
+        }
+      ]
+    },
+    "Arkansas": {
+      "anxiety": 20,
+      "hope": 34,
+      "stress": 14,
+      "fear": 12,
+      "depression": 9,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 35,
+          "related_searches": [
+            "crime 101 showtimes",
+            "crime 101 where to watch",
+            "good luck have fun don't die"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 14,
+          "related_searches": [
+            "missouri unemployment login",
+            "unemployment office pine bluff ar",
+            "how to apply for unemployment in arkansas"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 2,
+          "related_searches": [
+            "inflation report today",
+            "cpi inflation rate",
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "California": {
+      "anxiety": 44,
+      "hope": 39,
+      "stress": 41,
+      "fear": 34,
+      "depression": 30,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 59,
+          "related_searches": [
+            "crime 101 run time",
+            "cain velasquez crime",
+            "crime 101 post credit scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 22,
+          "related_searches": [
+            "how long can you be on unemployment in california",
+            "how to calculate unemployment rate",
+            "nj unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 16,
+          "related_searches": [
+            "clark gilbert lds church",
+            "inflation report this week",
+            "cpi report"
+          ]
+        }
+      ]
+    },
+    "Colorado": {
+      "anxiety": 33,
+      "hope": 22,
+      "stress": 26,
+      "fear": 22,
+      "depression": 20,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 51,
+          "related_searches": [
+            "crime 101 review",
+            "cast of crime 101",
+            "crime 101 imdb"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 32,
+          "related_searches": [
+            "virginia unemployment login",
+            "colorado unemployment phone number live person",
+            "cdle unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 12,
+          "related_searches": [
+            "inflation report today",
+            "inflation calc",
+            "january inflation report"
+          ]
+        }
+      ]
+    },
+    "Connecticut": {
+      "anxiety": 24,
+      "hope": 16,
+      "stress": 20,
+      "fear": 15,
+      "depression": 12,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 41,
+          "related_searches": [
+            "wuthering heights movie",
+            "voyeurism crime",
+            "good luck have fun don't die"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 32,
+          "related_searches": [
+            "ri unemployment login",
+            "hawaii unemployment login",
+            "what was the rate of unemployment in the united states during the great depression?"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 7,
+          "related_searches": [
+            "inflation report today",
+            "inflation report",
+            "inflation data"
+          ]
+        }
+      ]
+    },
+    "Delaware": {
+      "anxiety": 5,
+      "hope": 6,
+      "stress": 4,
+      "fear": 2,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 9,
+          "related_searches": [
+            "crime 101 reviews",
+            "crime 101 showtimes",
+            "wuthering heights movie"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 7,
+          "related_searches": [
+            "delaware unemployment weekly claim online",
+            "file weekly unemployment claim de",
+            "de unemployment claim"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Florida": {
+      "anxiety": 47,
+      "hope": 42,
+      "stress": 41,
+      "fear": 36,
+      "depression": 28,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 53,
+          "related_searches": [
+            "how long is crime 101",
+            "crime 101 imdb",
+            "crime 101 post credit scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 24,
+          "related_searches": [
+            "mn unemployment login",
+            "nys unemployment login",
+            "florida unemployment phone number live person"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 13,
+          "related_searches": [
+            "cpi report today",
+            "inflation report today",
+            "inflation numbers today"
+          ]
+        }
+      ]
+    },
+    "Georgia": {
+      "anxiety": 45,
+      "hope": 48,
+      "stress": 38,
+      "fear": 36,
+      "depression": 31,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 59,
+          "related_searches": [
+            "good luck have fun don't die",
+            "jamal lewis crime",
+            "crime 101 post credit scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 25,
+          "related_searches": [
+            "unemployment georgia status",
+            "unemployment office rome ga",
+            "pa unemployment login"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 13,
+          "related_searches": [
+            "cpi inflation report",
+            "inflation definition economics",
+            "inflation report today"
+          ]
+        }
+      ]
+    },
+    "Hawaii": {
+      "anxiety": 6,
+      "hope": 9,
+      "stress": 4,
+      "fear": 3,
+      "depression": 2,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 10,
+          "related_searches": [
+            "wuthering heights",
+            "crime 101 reviews",
+            "crime 101 trailer"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 6,
+          "related_searches": [
+            "unemployment office maui",
+            "wa unemployment",
+            "hi unemployment"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Idaho": {
+      "anxiety": 12,
+      "hope": 13,
+      "stress": 7,
+      "fear": 11,
+      "depression": 6,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 19,
+          "related_searches": [
+            "crime 101 trailer",
+            "crime 101 showtimes",
+            "crime 101 rotten tomatoes"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 8,
+          "related_searches": [
+            "unemployment card balance",
+            "washington state unemployment login",
+            "california unemployment"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Illinois": {
+      "anxiety": 48,
+      "hope": 37,
+      "stress": 41,
+      "fear": 33,
+      "depression": 32,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 60,
+          "related_searches": [
+            "how long is crime 101",
+            "crime 101 post credit scene",
+            "joe klecko crime"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 34,
+          "related_searches": [
+            "unemployment office mt vernon il",
+            "indiana unemployment phone number",
+            "unemployment office joliet"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 15,
+          "related_searches": [
+            "snowfall weather forecast",
+            "clark gilbert lds church",
+            "inflation report today"
+          ]
+        }
+      ]
+    },
+    "Indiana": {
+      "anxiety": 52,
+      "hope": 45,
+      "stress": 44,
+      "fear": 39,
+      "depression": 31,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 47,
+          "related_searches": [
+            "crime 101 rotten tomatoes",
+            "how long is crime 101",
+            "what is crime 101 about"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 24,
+          "related_searches": [
+            "new jersey unemployment",
+            "indiana unemployment claimant login",
+            "claimant indiana unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 9,
+          "related_searches": [
+            "cpi inflation rate",
+            "inflation report",
+            "inflation data"
+          ]
+        }
+      ]
+    },
+    "Iowa": {
+      "anxiety": 20,
+      "hope": 21,
+      "stress": 17,
+      "fear": 12,
+      "depression": 10,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 35,
+          "related_searches": [
+            "crime 101 release date",
+            "cast of crime 101",
+            "is cannibalism a crime"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 17,
+          "related_searches": [
+            "ohio unemployment login",
+            "iowa unemployment employer login",
+            "georgia unemployment benefits"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 5,
+          "related_searches": [
+            "dandy's world inflation",
+            "cpi inflation rate",
+            "cpi inflation"
+          ]
+        }
+      ]
+    },
+    "Kansas": {
+      "anxiety": 25,
+      "hope": 24,
+      "stress": 21,
+      "fear": 18,
+      "depression": 15,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 45,
+          "related_searches": [
+            "crime 101 trailer",
+            "wuthering heights movie",
+            "jussie smollett crime"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 22,
+          "related_searches": [
+            "unemployment office topeka ks",
+            "how do i apply for unemployment in kansas",
+            "how to file for unemployment in kansas"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 5,
+          "related_searches": [
+            "cpi inflation rate",
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "Kentucky": {
+      "anxiety": 34,
+      "hope": 30,
+      "stress": 26,
+      "fear": 27,
+      "depression": 18,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 41,
+          "related_searches": [
+            "good luck have fun don't die",
+            "what is crime 101 about",
+            "crime 101 length"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 24,
+          "related_searches": [
+            "unemployment oklahoma",
+            "unemployment ohio gov login",
+            "kcc.ky.gov. unemployment services"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 4,
+          "related_searches": [
+            "is inflation going down",
+            "inflation report",
+            "inflation rate today"
+          ]
+        }
+      ]
+    },
+    "Louisiana": {
+      "anxiety": 31,
+      "hope": 23,
+      "stress": 23,
+      "fear": 20,
+      "depression": 16,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 39,
+          "related_searches": [
+            "crime 101 showtimes",
+            "crime 101 trailer",
+            "crime 101 reviews"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 12,
+          "related_searches": [
+            "nd unemployment",
+            "unemployment office hammond la",
+            "unemployment office shreveport"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 3,
+          "related_searches": [
+            "fiscal policy definition",
+            "inflation report",
+            "inflation definition"
+          ]
+        }
+      ]
+    },
+    "Maine": {
+      "anxiety": 13,
+      "hope": 16,
+      "stress": 9,
+      "fear": 7,
+      "depression": 3,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 15,
+          "related_searches": [
+            "wuthering heights",
+            "good luck have fun don't die",
+            "wuthering heights movie"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 5,
+          "related_searches": [
+            "ct unemployment",
+            "nh unemployment"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Maryland": {
+      "anxiety": 39,
+      "hope": 31,
+      "stress": 30,
+      "fear": 27,
+      "depression": 22,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 62,
+          "related_searches": [
+            "crime 101 trailer",
+            "good luck have fun don't die",
+            "crime 101 movie trailer"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 41,
+          "related_searches": [
+            "nyc unemployment login",
+            "md unemployment weekly claim phone number",
+            "frictional unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 10,
+          "related_searches": [
+            "inflation report today",
+            "jeremy siegel inflation",
+            "cpi inflation report"
+          ]
+        }
+      ]
+    },
+    "Massachusetts": {
+      "anxiety": 38,
+      "hope": 28,
+      "stress": 34,
+      "fear": 25,
+      "depression": 27,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 50,
+          "related_searches": [
+            "kurt cobain crime scene",
+            "crime 101 rating",
+            "crime 101 imdb"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 43,
+          "related_searches": [
+            "nh unemployment office",
+            "rhode island unemployment login",
+            "nys unemployment login"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 13,
+          "related_searches": [
+            "inflation report today",
+            "when does inflation data come out",
+            "consumer inflation report"
+          ]
+        }
+      ]
+    },
+    "Michigan": {
+      "anxiety": 53,
+      "hope": 63,
+      "stress": 44,
+      "fear": 41,
+      "depression": 32,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 56,
+          "related_searches": [
+            "good luck have fun don't die",
+            "kurt cobain crime scene",
+            "crime 101 imdb"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 46,
+          "related_searches": [
+            "unemployment office grand rapids",
+            "unemployment claimant login",
+            "georgia unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 12,
+          "related_searches": [
+            "inflation data today",
+            "next inflation report",
+            "nasa spacex crew 12 launch"
+          ]
+        }
+      ]
+    },
+    "Minnesota": {
+      "anxiety": 32,
+      "hope": 46,
+      "stress": 25,
+      "fear": 20,
+      "depression": 18,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 16,
+          "related_searches": [
+            "wuthering heights movie",
+            "good luck have fun don't die",
+            "jamal lewis crime"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 13,
+          "related_searches": [
+            "nebraska unemployment login",
+            "applying for unemployment in mn",
+            "what is a recall date for unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 3,
+          "related_searches": [
+            "inflation report today",
+            "consumer inflation report",
+            "clark gilbert lds church"
+          ]
+        }
+      ]
+    },
+    "Mississippi": {
+      "anxiety": 31,
+      "hope": 30,
+      "stress": 24,
+      "fear": 19,
+      "depression": 14,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 36,
+          "related_searches": [
+            "crime 101 showtimes",
+            "crime 101 cast",
+            "wuthering heights movie"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 15,
+          "related_searches": [
+            "nys unemployment login",
+            "unemployment office near me",
+            "mississippi department of unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 1,
+          "related_searches": []
+        }
+      ]
+    },
+    "Missouri": {
+      "anxiety": 39,
+      "hope": 34,
+      "stress": 29,
+      "fear": 26,
+      "depression": 24,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 53,
+          "related_searches": [
+            "wuthering heights movie",
+            "good luck have fun don't die",
+            "crime 101 streaming"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 27,
+          "related_searches": [
+            "unemployment benefit login",
+            "illinois unemployment login",
+            "ga unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 9,
+          "related_searches": [
+            "rate of return definition",
+            "compound interest definition",
+            "inflation report today"
+          ]
+        }
+      ]
+    },
+    "Montana": {
+      "anxiety": 4,
+      "hope": 4,
+      "stress": 2,
+      "fear": 2,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 11,
+          "related_searches": [
+            "crime 101 movie",
+            "crime 101 reviews",
+            "best true crime podcasts"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 6,
+          "related_searches": [
+            "montana unemployment employer login"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Nebraska": {
+      "anxiety": 16,
+      "hope": 15,
+      "stress": 13,
+      "fear": 13,
+      "depression": 10,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 20,
+          "related_searches": [
+            "crime 101 rotten tomatoes",
+            "crime 101 reviews",
+            "crime 101 showtimes"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 5,
+          "related_searches": [
+            "unemployment office omaha",
+            "filing for unemployment in nebraska",
+            "unemployment office lincoln ne"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 1,
+          "related_searches": [
+            "inflation report",
+            "cpi inflation rate",
+            "cpi"
+          ]
+        }
+      ]
+    },
+    "Nevada": {
+      "anxiety": 36,
+      "hope": 33,
+      "stress": 31,
+      "fear": 32,
+      "depression": 19,
+      "top_concerns": [
+        {
+          "concern": "unemployment",
+          "value": 43,
+          "related_searches": [
+            "wa unemployment login",
+            "how long does a pending adjudication take for unemployment",
+            "css unemployment"
+          ]
+        },
+        {
+          "concern": "crime",
+          "value": 40,
+          "related_searches": [
+            "wuthering heights movie",
+            "lander county crime graphics",
+            "what is crime 101 about"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 3,
+          "related_searches": [
+            "inflation report today",
+            "fidelity inflation protected bond index",
+            "year over year inflation"
+          ]
+        }
+      ]
+    },
+    "New Hampshire": {
+      "anxiety": 10,
+      "hope": 6,
+      "stress": 5,
+      "fear": 5,
+      "depression": 3,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 10,
+          "related_searches": [
+            "crime 101 showtimes",
+            "crime 101 rotten tomatoes",
+            "crime 101 reviews"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 6,
+          "related_searches": [
+            "nh unemployment employer login",
+            "mass.gov unemployment",
+            "new hampshire unemployment login"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "New Jersey": {
+      "anxiety": 51,
+      "hope": 54,
+      "stress": 45,
+      "fear": 39,
+      "depression": 30,
+      "top_concerns": [
+        {
+          "concern": "unemployment",
+          "value": 20,
+          "related_searches": [
+            "can you collect unemployment if you resign",
+            "nys unemployment login"
+          ]
+        },
+        {
+          "concern": "crime",
+          "value": 16,
+          "related_searches": [
+            "joe klecko crime",
+            "crime 101 imdb",
+            "how long is crime 101"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 3,
+          "related_searches": [
+            "cpi report",
+            "inflation report today",
+            "inflation report this week"
+          ]
+        }
+      ]
+    },
+    "New Mexico": {
+      "anxiety": 20,
+      "hope": 17,
+      "stress": 16,
+      "fear": 14,
+      "depression": 10,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 28,
+          "related_searches": [
+            "crime 101 showtimes",
+            "rotten tomatoes crime 101",
+            "drug crime lawyer"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 13,
+          "related_searches": [
+            "unemployment office albuquerque",
+            "nm unemployment login",
+            "how to apply for unemployment in new mexico"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 1,
+          "related_searches": [
+            "cpi inflation rate",
+            "inflation report",
+            "us inflation calculator"
+          ]
+        }
+      ]
+    },
+    "New York": {
+      "anxiety": 53,
+      "hope": 42,
+      "stress": 46,
+      "fear": 38,
+      "depression": 37,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 30,
+          "related_searches": [
+            "joe klecko crime",
+            "wuthering heights movie",
+            "crime 101 showtimes"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 29,
+          "related_searches": [
+            "weekly unemployment claims",
+            "how long can you collect unemployment in ny",
+            "unemployment weekly claim phone number"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 10,
+          "related_searches": [
+            "inflation numbers today",
+            "inflation explain like kid",
+            "cpi report today"
+          ]
+        }
+      ]
+    },
+    "North Carolina": {
+      "anxiety": 49,
+      "hope": 68,
+      "stress": 39,
+      "fear": 60,
+      "depression": 31,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 56,
+          "related_searches": [
+            "how long is crime 101",
+            "crime 101 parents guide",
+            "joe klecko crime"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 25,
+          "related_searches": [
+            "how to calculate unemployment rate",
+            "vec unemployment weekly claim",
+            "how long does unemployment last in nc"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 13,
+          "related_searches": [
+            "clark gilbert lds church",
+            "inflation report today",
+            "cpi inflation report"
+          ]
+        }
+      ]
+    },
+    "North Dakota": {
+      "anxiety": 5,
+      "hope": 7,
+      "stress": 3,
+      "fear": 4,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 5,
+          "related_searches": [
+            "crime 101 trailer",
+            "wuthering heights movie",
+            "crime 101 reviews"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 3,
+          "related_searches": [
+            "nd unemployment phone number"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 1,
+          "related_searches": []
+        }
+      ]
+    },
+    "Ohio": {
+      "anxiety": 44,
+      "hope": 38,
+      "stress": 35,
+      "fear": 34,
+      "depression": 28,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 53,
+          "related_searches": [
+            "kurt cobain crime scene",
+            "how long is crime 101",
+            "joe klecko crime"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 41,
+          "related_searches": [
+            "wv unemployment login",
+            "ky unemployment login",
+            "can i get unemployment if i was fired"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 11,
+          "related_searches": [
+            "cpi report today",
+            "does real gdp include inflation",
+            "clark gilbert lds church"
+          ]
+        }
+      ]
+    },
+    "Oklahoma": {
+      "anxiety": 39,
+      "hope": 30,
+      "stress": 30,
+      "fear": 26,
+      "depression": 21,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 35,
+          "related_searches": [
+            "wuthering heights movie",
+            "crime 101 rotten tomatoes",
+            "how long is crime 101"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 22,
+          "related_searches": [
+            "unemployment office lawton ok",
+            "how do you file for unemployment in oklahoma",
+            "oklahoma unemployment website not working"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 2,
+          "related_searches": [
+            "inflation calculator by year",
+            "inflation report",
+            "cpi inflation rate"
+          ]
+        }
+      ]
+    },
+    "Oregon": {
+      "anxiety": 40,
+      "hope": 30,
+      "stress": 29,
+      "fear": 27,
+      "depression": 22,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 47,
+          "related_searches": [
+            "jamal lewis crime",
+            "crime 101 movie trailer",
+            "why is crime 101 rated r"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 31,
+          "related_searches": [
+            "unemployment office bend oregon",
+            "filing weekly claim for unemployment",
+            "how do i qualify for unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 7,
+          "related_searches": [
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "anxiety": 37,
+      "hope": 36,
+      "stress": 31,
+      "fear": 27,
+      "depression": 23,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 30,
+          "related_searches": [
+            "good luck have fun don't die",
+            "how long is crime 101",
+            "crime 101 post credit scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 30,
+          "related_searches": [
+            "delaware unemployment login",
+            "file biweekly claim unemployment pa",
+            "unemployment ny login"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 8,
+          "related_searches": [
+            "inflation chart by year",
+            "inflation report today",
+            "cpi report"
+          ]
+        }
+      ]
+    },
+    "Rhode Island": {
+      "anxiety": 15,
+      "hope": 36,
+      "stress": 7,
+      "fear": 6,
+      "depression": 5,
+      "top_concerns": [
+        {
+          "concern": "unemployment",
+          "value": 10,
+          "related_searches": [
+            "mass gov unemployment",
+            "apply for unemployment ri",
+            "ri unemployment benefits"
+          ]
+        },
+        {
+          "concern": "crime",
+          "value": 9,
+          "related_searches": [
+            "crime 101 reviews",
+            "crime 101 rotten tomatoes",
+            "good luck have fun don't die"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "South Carolina": {
+      "anxiety": 42,
+      "hope": 42,
+      "stress": 36,
+      "fear": 31,
+      "depression": 21,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 46,
+          "related_searches": [
+            "crime 101 review",
+            "kurt cobain crime scene",
+            "what is crime 101 about"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 25,
+          "related_searches": [
+            "sc works unemployment login",
+            "how do i apply for unemployment in south carolina",
+            "unemployment office beaufort sc"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 7,
+          "related_searches": [
+            "cpi inflation report",
+            "inflation report today",
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "South Dakota": {
+      "anxiety": 8,
+      "hope": 10,
+      "stress": 7,
+      "fear": 3,
+      "depression": 4,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 6,
+          "related_searches": [
+            "crime 101 trailer",
+            "wuthering heights",
+            "drug crime lawyers"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        },
+        {
+          "concern": "housing costs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Tennessee": {
+      "anxiety": 45,
+      "hope": 43,
+      "stress": 36,
+      "fear": 33,
+      "depression": 26,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 53,
+          "related_searches": [
+            "crime 101 review",
+            "good luck have fun don't die",
+            "how long is crime 101"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 26,
+          "related_searches": [
+            "facts about unemployment",
+            "unemployment rate during great depression",
+            "cyclical unemployment"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 11,
+          "related_searches": [
+            "inflation data this week",
+            "inflation report today",
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "Texas": {
+      "anxiety": 45,
+      "hope": 41,
+      "stress": 39,
+      "fear": 36,
+      "depression": 29,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 54,
+          "related_searches": [
+            "nate newton crime",
+            "how long is crime 101 movie",
+            "crime 101 after credits"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 29,
+          "related_searches": [
+            "oklahoma unemployment benefits",
+            "labor force participation rate formula",
+            "oklahoma unemployment login"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 13,
+          "related_searches": [
+            "describe the economic impact of inflation on both businesses due to raising or lowering the price of their products.",
+            "inflation report today",
+            "inflation numbers today"
+          ]
+        }
+      ]
+    },
+    "Utah": {
+      "anxiety": 26,
+      "hope": 17,
+      "stress": 20,
+      "fear": 19,
+      "depression": 16,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 42,
+          "related_searches": [
+            "rotten tomatoes crime 101",
+            "good luck have fun don't die",
+            "crime 101 imdb"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 17,
+          "related_searches": [
+            "utah unemployment weekly claim",
+            "utah unemployment phone number",
+            "how to apply for unemployment utah"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 5,
+          "related_searches": [
+            "inflation report today",
+            "inflation calculator usd",
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "Vermont": {
+      "anxiety": 2,
+      "hope": 0,
+      "stress": 2,
+      "fear": 0,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 4,
+          "related_searches": [
+            "crime 101 trailer",
+            "crime 101 showtimes",
+            "crime 101 reviews"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 2,
+          "related_searches": [
+            "vermont unemployment number"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Virginia": {
+      "anxiety": 45,
+      "hope": 36,
+      "stress": 40,
+      "fear": 32,
+      "depression": 31,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 58,
+          "related_searches": [
+            "crime 101 reddit",
+            "crime 101 rating",
+            "crime 101 post credit scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 26,
+          "related_searches": [
+            "how long does unemployment last",
+            "january 2026 unemployment rate",
+            "how to apply for unemployment in va"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 15,
+          "related_searches": [
+            "inflation report today",
+            "cpi report",
+            "cpi inflation report"
+          ]
+        }
+      ]
+    },
+    "Washington": {
+      "anxiety": 25,
+      "hope": 20,
+      "stress": 21,
+      "fear": 20,
+      "depression": 17,
+      "top_concerns": [
+        {
+          "concern": "unemployment",
+          "value": 37,
+          "related_searches": [
+            "unemployment office vancouver wa",
+            "unemployment office near me",
+            "oregon unemployment department"
+          ]
+        },
+        {
+          "concern": "crime",
+          "value": 36,
+          "related_searches": [
+            "crime 101 reddit",
+            "crime 101 length",
+            "crime 101 showtimes near me"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 9,
+          "related_searches": [
+            "inflation report today",
+            "clark gilbert lds church",
+            "inflation calc"
+          ]
+        }
+      ]
+    },
+    "West Virginia": {
+      "anxiety": 20,
+      "hope": 37,
+      "stress": 15,
+      "fear": 13,
+      "depression": 9,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 25,
+          "related_searches": [
+            "crime 101 reviews",
+            "kurt cobain crime scene",
+            "crime 101 cast"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 13,
+          "related_searches": [
+            "ohio. unemployment",
+            "unemployment office elkins wv",
+            "unemployment office parkersburg wv"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "Wisconsin": {
+      "anxiety": 41,
+      "hope": 35,
+      "stress": 30,
+      "fear": 27,
+      "depression": 21,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 34,
+          "related_searches": [
+            "crime 101 streaming",
+            "good luck have fun don't die",
+            "kurt cobain crime scene"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 25,
+          "related_searches": [
+            "michigan unemployment login",
+            "maryland unemployment",
+            "illinois unemployment login"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 6,
+          "related_searches": [
+            "inflation report today",
+            "how can you counteract the impact of inflation?",
+            "inflation report"
+          ]
+        }
+      ]
+    },
+    "Wyoming": {
+      "anxiety": 5,
+      "hope": 1,
+      "stress": 4,
+      "fear": 1,
+      "depression": 2,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 16,
+          "related_searches": [
+            "crime 101 reviews",
+            "crime 101 rotten tomatoes",
+            "crime 101 movie"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 3,
+          "related_searches": [
+            "wyoming unemployment calculator",
+            "utah unemployment",
+            "colorado unemployment"
+          ]
+        },
+        {
+          "concern": "layoffs",
+          "value": 0,
+          "related_searches": []
+        }
+      ]
+    },
+    "District of Columbia": {
+      "anxiety": 5,
+      "hope": 16,
+      "stress": 3,
+      "fear": 2,
+      "depression": 2,
+      "top_concerns": [
+        {
+          "concern": "crime",
+          "value": 10,
+          "related_searches": [
+            "crime 101 showtimes",
+            "crime 101 trailer",
+            "crime 101 rotten tomatoes"
+          ]
+        },
+        {
+          "concern": "unemployment",
+          "value": 3,
+          "related_searches": [
+            "unemployment rate formula",
+            "maryland unemployment beacon",
+            "md unemployment number"
+          ]
+        },
+        {
+          "concern": "inflation",
+          "value": 2,
+          "related_searches": [
+            "cpi inflation rate",
+            "cpi inflation",
+            "inflation report"
+          ]
+        }
+      ]
+    }
+  },
+  "national_stats": {
+    "national_anxiety": 29.5,
+    "national_hope": 28.6,
+    "national_stress": 24.0,
+    "fear_index": 1.4,
+    "bullish_index": 6.0,
+    "top_national_concerns": [
+      [
+        "crime",
+        1786
+      ],
+      [
+        "unemployment",
+        1037
+      ],
+      [
+        "inflation",
+        297
+      ]
+    ]
+  }
+}

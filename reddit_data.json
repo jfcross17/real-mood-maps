@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": "sample1",
+      "subreddit": "anxiety",
+      "title": "Can't sleep worrying about my job interview tomorrow",
+      "text": "I have a big interview tomorrow and I'm so anxious I can't sleep. What if I mess up? What if they don't like me? I really need this job because rent is due next week and I'm almost out of savings.",
+      "score": 234,
+      "num_comments": 45,
+      "created_utc": "2026-02-14T00:00:00",
+      "author": "anxious_user",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample2",
+      "subreddit": "jobs",
+      "title": "Got laid off today after 5 years",
+      "text": "They called me into a meeting this morning and just... let me go. No warning. Five years of dedication and I'm out. I have no idea what I'm going to do. The job market is terrible right now.",
+      "score": 892,
+      "num_comments": 156,
+      "created_utc": "2026-02-14T01:00:00",
+      "author": "laid_off_dev",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample3",
+      "subreddit": "personalfinance",
+      "title": "Rent just went up 25% and I don't know how to afford it",
+      "text": "My landlord just sent me a renewal notice with a 25% increase. I'm already living paycheck to paycheck. I've been looking for cheaper places but everything is so expensive now. I'm genuinely scared I might become homeless.",
+      "score": 1523,
+      "num_comments": 289,
+      "created_utc": "2026-02-14T02:00:00",
+      "author": "broke_tenant",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample4",
+      "subreddit": "wallstreetbets",
+      "title": "Market is rigged and I'm done",
+      "text": "Lost 40% of my portfolio this week. Every time I buy, it dumps. Every time I sell, it moons. The market is absolutely rigged against retail traders. I'm so angry I can't even think straight.",
+      "score": 3421,
+      "num_comments": 567,
+      "created_utc": "2026-02-14T03:00:00",
+      "author": "angry_trader",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample5",
+      "subreddit": "depression",
+      "title": "Every day feels the same and I can't see it getting better",
+      "text": "Wake up, go to work, come home, sleep, repeat. I feel nothing. No joy, no excitement, just... emptiness. I don't even know what I'm working towards anymore. What's the point?",
+      "score": 678,
+      "num_comments": 134,
+      "created_utc": "2026-02-14T04:00:00",
+      "author": "empty_inside",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample6",
+      "subreddit": "collapse",
+      "title": "Climate report shows we're past the point of no return",
+      "text": "Just read the latest IPCC report and it's worse than I thought. We're not going to fix this. Our kids are going to inherit a dying planet and there's nothing we can do about it now.",
+      "score": 2341,
+      "num_comments": 445,
+      "created_utc": "2026-02-14T05:00:00",
+      "author": "doomer123",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample7",
+      "subreddit": "antiwork",
+      "title": "Boss told me I should be 'grateful' to have a job",
+      "text": "I asked for a raise after 3 years without one and my boss literally told me I should be grateful to even have a job in this economy. I'm so done with corporate America.",
+      "score": 5672,
+      "num_comments": 892,
+      "created_utc": "2026-02-13T20:00:00",
+      "author": "fed_up_worker",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample8",
+      "subreddit": "anxiety",
+      "title": "Heart racing all day for no reason",
+      "text": "My heart has been pounding all day and I don't know why. Nothing bad happened, but I can't shake this feeling of dread. It's exhausting being anxious all the time.",
+      "score": 445,
+      "num_comments": 67,
+      "created_utc": "2026-02-13T19:00:00",
+      "author": "racing_heart",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample9",
+      "subreddit": "careerguidance",
+      "title": "Should I quit my stable job to pursue my passion?",
+      "text": "I hate my corporate job but it pays well. I want to start my own business but I'm terrified of failing. What if I give up security and end up broke? But what if I stay and regret it forever?",
+      "score": 234,
+      "num_comments": 78,
+      "created_utc": "2026-02-13T18:00:00",
+      "author": "torn_professional",
+      "collected_at": "2026-02-14T06:00:00"
+    },
+    {
+      "id": "sample10",
+      "subreddit": "povertyfinance",
+      "title": "Car broke down and I can't afford to fix it",
+      "text": "My car needs $1200 in repairs and I have $87 in my bank account. I need my car to get to work. I need work to get money. I don't know what to do.",
+      "score": 892,
+      "num_comments": 156,
+      "created_utc": "2026-02-13T17:00:00",
+      "author": "car_trouble",
+      "collected_at": "2026-02-14T06:00:00"
+    }
+  ],
+  "metadata": {
+    "collected_at": "2026-02-14T06:00:00",
+    "subreddits": ["anxiety", "depression", "jobs", "personalfinance", "wallstreetbets", "collapse", "antiwork", "careerguidance", "povertyfinance", "stressed"],
+    "posts_per_sub": 50
+  }
+}

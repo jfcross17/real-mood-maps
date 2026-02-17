@@ -1,0 +1,672 @@
+{
+  "event_name": "SVB_After",
+  "event_date": "2023-03-17",
+  "analysis_window": {
+    "start_date": "2023-03-10",
+    "end_date": "2023-03-17",
+    "days_before": 7
+  },
+  "collection_timestamp": "2026-02-16T09:59:41.668522",
+  "state_data": {
+    "Alabama": {
+      "panic_score": 27.0,
+      "keyword_data": {
+        "recession": 2,
+        "stock market crash": 3,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 76,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Alaska": {
+      "panic_score": 0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 0,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Arizona": {
+      "panic_score": 35.3,
+      "keyword_data": {
+        "recession": 16,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 20,
+        "unemployment": 70,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Arkansas": {
+      "panic_score": 20.2,
+      "keyword_data": {
+        "recession": 8,
+        "stock market crash": 6,
+        "should I sell stocks": 0,
+        "layoffs": 4,
+        "unemployment": 63,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "California": {
+      "panic_score": 40.0,
+      "keyword_data": {
+        "recession": 20,
+        "stock market crash": 5,
+        "should I sell stocks": 0,
+        "layoffs": 54,
+        "unemployment": 52,
+        "market crash": 76,
+        "financial crisis": 33
+      }
+    },
+    "Colorado": {
+      "panic_score": 35.7,
+      "keyword_data": {
+        "recession": 17,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 21,
+        "unemployment": 69,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Connecticut": {
+      "panic_score": 26.3,
+      "keyword_data": {
+        "recession": 1,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 11,
+        "unemployment": 67,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Delaware": {
+      "panic_score": 51.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 51,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Florida": {
+      "panic_score": 30.7,
+      "keyword_data": {
+        "recession": 19,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 20,
+        "unemployment": 73,
+        "market crash": 63,
+        "financial crisis": 7
+      }
+    },
+    "Georgia": {
+      "panic_score": 34.8,
+      "keyword_data": {
+        "recession": 19,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 23,
+        "unemployment": 81,
+        "market crash": 74,
+        "financial crisis": 10
+      }
+    },
+    "Hawaii": {
+      "panic_score": 54.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 54,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Idaho": {
+      "panic_score": 49.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 49,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Illinois": {
+      "panic_score": 29.4,
+      "keyword_data": {
+        "recession": 18,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 25,
+        "unemployment": 68,
+        "market crash": 34,
+        "financial crisis": 0
+      }
+    },
+    "Indiana": {
+      "panic_score": 23.0,
+      "keyword_data": {
+        "recession": 7,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 5,
+        "unemployment": 67,
+        "market crash": 34,
+        "financial crisis": 0
+      }
+    },
+    "Iowa": {
+      "panic_score": 18.7,
+      "keyword_data": {
+        "recession": 3,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 5,
+        "unemployment": 48,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Kansas": {
+      "panic_score": 20.2,
+      "keyword_data": {
+        "recession": 3,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 9,
+        "unemployment": 57,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "Kentucky": {
+      "panic_score": 25.3,
+      "keyword_data": {
+        "recession": 3,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 4,
+        "unemployment": 69,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Louisiana": {
+      "panic_score": 37.0,
+      "keyword_data": {
+        "recession": 3,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 71,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Maine": {
+      "panic_score": 66.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 66,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Maryland": {
+      "panic_score": 28.5,
+      "keyword_data": {
+        "recession": 11,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 16,
+        "unemployment": 75,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "Massachusetts": {
+      "panic_score": 29.2,
+      "keyword_data": {
+        "recession": 11,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 28,
+        "unemployment": 66,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "Michigan": {
+      "panic_score": 34.8,
+      "keyword_data": {
+        "recession": 14,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 18,
+        "unemployment": 70,
+        "market crash": 37,
+        "financial crisis": 0
+      }
+    },
+    "Minnesota": {
+      "panic_score": 27.2,
+      "keyword_data": {
+        "recession": 6,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 13,
+        "unemployment": 56,
+        "market crash": 34,
+        "financial crisis": 0
+      }
+    },
+    "Mississippi": {
+      "panic_score": 59.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 59,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Missouri": {
+      "panic_score": 28.5,
+      "keyword_data": {
+        "recession": 14,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 17,
+        "unemployment": 71,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "Montana": {
+      "panic_score": 34.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 34,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Nebraska": {
+      "panic_score": 26.0,
+      "keyword_data": {
+        "recession": 7,
+        "stock market crash": 0,
+        "should I sell stocks": 8,
+        "layoffs": 0,
+        "unemployment": 63,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Nevada": {
+      "panic_score": 22.5,
+      "keyword_data": {
+        "recession": 5,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 2,
+        "unemployment": 71,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "New Hampshire": {
+      "panic_score": 34.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 8,
+        "layoffs": 0,
+        "unemployment": 60,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "New Jersey": {
+      "panic_score": 25.2,
+      "keyword_data": {
+        "recession": 8,
+        "stock market crash": 1,
+        "should I sell stocks": 0,
+        "layoffs": 15,
+        "unemployment": 72,
+        "market crash": 42,
+        "financial crisis": 13
+      }
+    },
+    "New Mexico": {
+      "panic_score": 34.5,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 4,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 65,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "New York": {
+      "panic_score": 31.0,
+      "keyword_data": {
+        "recession": 11,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 20,
+        "unemployment": 68,
+        "market crash": 58,
+        "financial crisis": 27
+      }
+    },
+    "North Carolina": {
+      "panic_score": 30.8,
+      "keyword_data": {
+        "recession": 22,
+        "stock market crash": 3,
+        "should I sell stocks": 0,
+        "layoffs": 26,
+        "unemployment": 72,
+        "market crash": 31,
+        "financial crisis": 0
+      }
+    },
+    "North Dakota": {
+      "panic_score": 12.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 12,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Ohio": {
+      "panic_score": 27.2,
+      "keyword_data": {
+        "recession": 12,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 7,
+        "unemployment": 78,
+        "market crash": 31,
+        "financial crisis": 8
+      }
+    },
+    "Oklahoma": {
+      "panic_score": 57.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 57,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Oregon": {
+      "panic_score": 21.0,
+      "keyword_data": {
+        "recession": 9,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 6,
+        "unemployment": 57,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "Pennsylvania": {
+      "panic_score": 25.0,
+      "keyword_data": {
+        "recession": 6,
+        "stock market crash": 1,
+        "should I sell stocks": 0,
+        "layoffs": 10,
+        "unemployment": 69,
+        "market crash": 58,
+        "financial crisis": 6
+      }
+    },
+    "Rhode Island": {
+      "panic_score": 64.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 64,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "South Carolina": {
+      "panic_score": 19.2,
+      "keyword_data": {
+        "recession": 6,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 7,
+        "unemployment": 69,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "South Dakota": {
+      "panic_score": 0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 0,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Tennessee": {
+      "panic_score": 25.6,
+      "keyword_data": {
+        "recession": 16,
+        "stock market crash": 2,
+        "should I sell stocks": 0,
+        "layoffs": 17,
+        "unemployment": 81,
+        "market crash": 12,
+        "financial crisis": 0
+      }
+    },
+    "Texas": {
+      "panic_score": 33.8,
+      "keyword_data": {
+        "recession": 17,
+        "stock market crash": 5,
+        "should I sell stocks": 0,
+        "layoffs": 26,
+        "unemployment": 77,
+        "market crash": 70,
+        "financial crisis": 8
+      }
+    },
+    "Utah": {
+      "panic_score": 28.0,
+      "keyword_data": {
+        "recession": 6,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 13,
+        "unemployment": 65,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Vermont": {
+      "panic_score": 12.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 12,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Virginia": {
+      "panic_score": 33.2,
+      "keyword_data": {
+        "recession": 25,
+        "stock market crash": 12,
+        "should I sell stocks": 0,
+        "layoffs": 40,
+        "unemployment": 75,
+        "market crash": 41,
+        "financial crisis": 6
+      }
+    },
+    "Washington": {
+      "panic_score": 39.0,
+      "keyword_data": {
+        "recession": 11,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 44,
+        "unemployment": 71,
+        "market crash": 30,
+        "financial crisis": 0
+      }
+    },
+    "West Virginia": {
+      "panic_score": 69.0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 69,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Wisconsin": {
+      "panic_score": 23.7,
+      "keyword_data": {
+        "recession": 7,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 5,
+        "unemployment": 59,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "Wyoming": {
+      "panic_score": 0,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 0,
+        "unemployment": 0,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    },
+    "District of Columbia": {
+      "panic_score": 28.5,
+      "keyword_data": {
+        "recession": 0,
+        "stock market crash": 0,
+        "should I sell stocks": 0,
+        "layoffs": 12,
+        "unemployment": 45,
+        "market crash": 0,
+        "financial crisis": 0
+      }
+    }
+  },
+  "summary": {
+    "states_above_threshold": 0,
+    "threshold_used": 70,
+    "top_10_states": [
+      {
+        "state": "West Virginia",
+        "panic_score": 69.0
+      },
+      {
+        "state": "Maine",
+        "panic_score": 66.0
+      },
+      {
+        "state": "Rhode Island",
+        "panic_score": 64.0
+      },
+      {
+        "state": "Mississippi",
+        "panic_score": 59.0
+      },
+      {
+        "state": "Oklahoma",
+        "panic_score": 57.0
+      },
+      {
+        "state": "Hawaii",
+        "panic_score": 54.0
+      },
+      {
+        "state": "Delaware",
+        "panic_score": 51.0
+      },
+      {
+        "state": "Idaho",
+        "panic_score": 49.0
+      },
+      {
+        "state": "California",
+        "panic_score": 40.0
+      },
+      {
+        "state": "Washington",
+        "panic_score": 39.0
+      }
+    ],
+    "regions_affected": [],
+    "total_regions_affected": 0
+  }
+}
