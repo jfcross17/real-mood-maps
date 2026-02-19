@@ -177,7 +177,6 @@ window.addEventListener('load', function() {
                                                 <div style="font-size:20px; font-weight:bold;">
                                                     ${icon} ${index + 1}. ${item.concern.charAt(0).toUpperCase() + item.concern.slice(1)}
                                                 </div>
-                                                <div style="font-size:24px; font-weight:bold; color:#ef4444;">${item.value}</div>
                                             </div>
                                     `;
                                     
