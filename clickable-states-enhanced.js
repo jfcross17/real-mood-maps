@@ -177,6 +177,10 @@ window.addEventListener('load', function() {
                                                 <div style="font-size:20px; font-weight:bold;">
                                                     ${icon} ${index + 1}. ${item.concern.charAt(0).toUpperCase() + item.concern.slice(1)}
                                                 </div>
+                                                <div style="text-align:right;">
+                                                    <div style="font-size:22px; font-weight:bold; color:#ef4444;">${item.value}<span style="font-size:12px;">/100</span></div>
+                                                    <div style="font-size:10px; color:#9ca3af; letter-spacing:1px; text-transform:uppercase;">search interest</div>
+                                                </div>
                                             </div>
                                     `;
                                     
