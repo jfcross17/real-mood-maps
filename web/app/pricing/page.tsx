@@ -1,225 +1,363 @@
 import Link from "next/link";
+import TopBar from "@/components/TopBar";
+import SiteFooter from "@/components/SiteFooter";
 
-const PLANS = [
+interface PlanFeature {
+  text: string;
+  included: boolean;
+}
+
+interface Plan {
+  name: string;
+  priceItalic: string;
+  pricePostfix: string;
+  cadence: string;
+  tagline: string;
+  features: PlanFeature[];
+  cta: string;
+  href: string;
+  recommended?: boolean;
+}
+
+// PLACEHOLDER: pricing copy to be finalized with sales — current figures match positioning brief
+const PLANS: Plan[] = [
+  {
+    name: "Free",
+    priceItalic: "0",
+    pricePostfix: "",
+    cadence: "Forever",
+    tagline: "See the country at a glance.",
+    features: [
+      { text: "National anxiety + hope indices", included: true },
+      { text: "Live emotional map (state colors only)", included: true },
+      { text: "Weekly Brief in your inbox", included: true },
+      { text: "Full state detail + history", included: false },
+      { text: "CSV export · API access", included: false },
+    ],
+    cta: "Start free",
+    href: "/login",
+  },
   {
     name: "Pro",
-    price: "$99",
-    period: "/mo",
-    description: "For individual consultants and campaign managers.",
+    priceItalic: "99",
+    pricePostfix: "",
+    cadence: "Per month",
+    tagline: "For consultants who need the signal in time.",
     features: [
-      "Live daily snapshot — all 50 states",
-      "Full state detail: concerns, hope drivers, velocity",
-      "30-day trend history per state",
-      "National issue correlation view",
-      "CSV export",
-      "Email support",
+      { text: "Everything in Free", included: true },
+      { text: "Full state detail · 90-day history", included: true },
+      { text: "Daily Brief (Mon–Fri, 6 AM PT)", included: true },
+      { text: "CSV export · read-only API", included: true },
+      { text: "Issue-level keyword breakdowns", included: true },
     ],
-    cta: "Start Pro Trial",
+    cta: "Subscribe",
     href: "/login",
-    highlight: false,
+    recommended: true,
   },
   {
-    name: "Agency",
-    price: "$299",
-    period: "/mo",
-    description: "For firms managing multiple campaigns simultaneously.",
+    name: "Firm",
+    priceItalic: "299",
+    pricePostfix: "",
+    cadence: "Per month",
+    tagline: "For teams managing multiple campaigns.",
     features: [
-      "Everything in Pro",
-      "Up to 5 user seats",
-      "API access (JSON endpoint)",
-      "Custom state watchlists with alerts",
-      "Priority Slack support",
-      "Quarterly methodology briefing",
+      { text: "Everything in Pro", included: true },
+      { text: "5 team seats", included: true },
+      { text: "White-labelled briefs (PDF export)", included: true },
+      { text: "Full archive · all 142 back issues", included: true },
+      { text: "Priority Slack-Connect support", included: true },
     ],
-    cta: "Start Agency Trial",
+    cta: "Talk to us",
     href: "/login",
-    highlight: true,
   },
 ];
 
-const FAQ = [
-  {
-    q: "What does the data actually measure?",
-    a: "We track Google Trends search volume for emotional keywords (anxiety, hope, stress, fear) and issue-specific terms (layoffs, inflation, immigration, crime, etc.) across all 50 states. Data is normalized 0–100 and updated daily.",
-  },
-  {
-    q: "How often is the dashboard updated?",
-    a: "The pipeline runs once every 24 hours. Given Google Trends rate limits and 50-state coverage, a full run takes 60–90 minutes. You see the freshest data available each morning.",
-  },
-  {
-    q: "Is there a free trial?",
-    a: "Yes — both plans include a 7-day free trial. No credit card required to start. You will be prompted to add payment information after the trial period.",
-  },
-  {
-    q: "What does the free tier show?",
-    a: "The free tier shows the national map with anxiety/hope/stress coloring and the four national metric cards. State-level detail, modal breakdowns, and history charts require Pro or Agency.",
-  },
+interface FAQItem {
+  q: string;
+  a: string;
+}
+
+// PLACEHOLDER: FAQ copy to be reviewed by legal before live billing
+const FAQ: FAQItem[] = [
   {
     q: "Can I cancel anytime?",
-    a: "Yes. Cancel from your account page at any time. You retain access until the end of your billing period.",
+    a: "Yes. Cancel from your account page; you keep access through the end of the current billing period. We do not bill the next cycle automatically once you cancel.",
+  },
+  {
+    q: "Do you offer refunds?",
+    a: "Within 14 days of a new Pro or Firm subscription, full refund, no questions. After that, we prorate by remaining days in the period.",
+  },
+  {
+    q: "Where does the data come from?",
+    a: "Google Trends queries for emotion- and issue-coded keyword baskets, normalized 0–100 per state and smoothed over a 7-day window. The methodology is documented in full on the Proof page.",
+  },
+  {
+    q: "Do you share customer data?",
+    a: "No. Your account, queries, and exports are private to your team. We do not sell subscriber data, and we do not aggregate it back into the public product.",
+  },
+  {
+    q: "Need something custom — enterprise, embeds, an extra seat block?",
+    a: "Email the desk at hello@nationalpulse.io. We will price a tier that matches what you actually need rather than asking you to buy three Firm seats to get two extras.",
   },
 ];
+
+function CheckIcon({ included }: { included: boolean }) {
+  if (included) {
+    return (
+      <svg
+        viewBox="0 0 20 20"
+        className="mt-0.5 h-4 w-4 shrink-0 text-accent-cool"
+        fill="none"
+        aria-hidden
+      >
+        <path
+          d="M4 10.5l4 4 8-9"
+          stroke="currentColor"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+      </svg>
+    );
+  }
+  return (
+    <svg
+      viewBox="0 0 20 20"
+      className="mt-0.5 h-4 w-4 shrink-0 text-text-dim"
+      fill="none"
+      aria-hidden
+    >
+      <line
+        x1="5"
+        y1="10"
+        x2="15"
+        y2="10"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+}
+
+function PlanCard({ plan }: { plan: Plan }) {
+  const isRec = !!plan.recommended;
+  return (
+    <div
+      className={`relative flex flex-col border bg-bg-card p-8 ${
+        isRec ? "border-accent" : "border-border"
+      }`}
+    >
+      {isRec && (
+        <span className="absolute -top-3 right-6 rounded-full bg-accent px-3 py-1 font-mono text-[10px] font-semibold uppercase tracking-[0.14em] text-bg">
+          Recommended
+        </span>
+      )}
+      <div className="mb-2 font-mono text-[11px] uppercase tracking-[0.14em] text-accent">
+        {plan.name}
+      </div>
+      <div
+        className="mb-2 flex items-baseline gap-1 font-display leading-none tracking-[-0.04em] text-text"
+        style={{
+          fontVariationSettings: '"opsz" 144, "SOFT" 60, "wght" 500',
+          fontSize: "72px",
+        }}
+      >
+        <span className="text-3xl text-text-muted">$</span>
+        <em
+          className="not-italic text-accent"
+          style={{
+            fontStyle: "italic",
+            fontVariationSettings: '"opsz" 144, "SOFT" 80, "wght" 500',
+          }}
+        >
+          {plan.priceItalic}
+        </em>
+        {plan.pricePostfix && (
+          <span className="text-3xl text-text">{plan.pricePostfix}</span>
+        )}
+      </div>
+      <div className="mb-5 font-mono text-[10px] uppercase tracking-[0.14em] text-text-muted">
+        {plan.cadence}
+      </div>
+      <p
+        className="mb-7 font-display italic text-text-muted"
+        style={{
+          fontVariationSettings: '"opsz" 24',
+          fontSize: "15px",
+          lineHeight: 1.5,
+        }}
+      >
+        {plan.tagline}
+      </p>
+      <ul className="mb-8 flex flex-1 flex-col gap-3">
+        {plan.features.map((f) => (
+          <li
+            key={f.text}
+            className={`flex items-start gap-3 font-mono text-[13px] ${
+              f.included ? "text-text" : "text-text-dim line-through"
+            }`}
+          >
+            <CheckIcon included={f.included} />
+            <span>{f.text}</span>
+          </li>
+        ))}
+      </ul>
+      <Link
+        href={plan.href}
+        className={`block w-full rounded-full py-3 text-center font-sans text-sm font-semibold transition-all ${
+          isRec
+            ? "bg-accent text-bg hover:-translate-y-px hover:bg-[#f5b35a]"
+            : "border border-border-strong text-text hover:border-accent hover:text-accent"
+        }`}
+      >
+        {plan.cta} →
+      </Link>
+    </div>
+  );
+}
 
 export default function PricingPage() {
   return (
-    <div className="max-w-5xl mx-auto px-6 py-16">
-      {/* Header */}
-      <div className="text-center mb-16">
-        <span
-          className="mono text-xs uppercase tracking-widest"
-          style={{ color: "var(--accent)" }}
-        >
-          Pricing
-        </span>
-        <h1
-          className="display-font text-6xl mt-3 mb-4"
-          style={{ color: "var(--text)" }}
-        >
-          CLEAR PRICING.
-          <br />
-          <span style={{ color: "var(--accent)" }}>NO SURPRISES.</span>
-        </h1>
-        <p className="text-base max-w-xl mx-auto" style={{ color: "var(--muted)" }}>
-          Built for political consultants. Priced for what the signal is actually
-          worth in a race.
-        </p>
-      </div>
-
-      {/* Plan cards */}
-      <div className="grid md:grid-cols-2 gap-6 mb-20">
-        {PLANS.map((plan) => (
+    <>
+      <TopBar />
+      <header className="relative mx-auto max-w-[1320px] px-4 pb-8 pt-12 lg:px-8">
+        <div className="mb-6 flex items-baseline justify-between border-b-2 border-text pb-4">
+          <div className="font-mono text-[11px] uppercase tracking-[0.16em] text-text-muted">
+            <strong className="font-semibold text-accent">Subscriptions</strong> · Pricing ·{" "}
+            <strong className="font-semibold text-accent">May 2026</strong>
+          </div>
           <div
-            key={plan.name}
-            className="rounded-xl p-8 flex flex-col"
+            className="hidden font-display text-sm italic text-text-muted md:block"
+            style={{ fontVariationSettings: '"opsz" 144' }}
+          >
+            Priced for the way operators actually work
+          </div>
+        </div>
+        <h1
+          className="mb-5 max-w-[1100px] font-display leading-[0.95] tracking-[-0.035em]"
+          style={{
+            fontVariationSettings: '"opsz" 144, "SOFT" 30, "wght" 500',
+            fontSize: "clamp(40px, 6vw, 76px)",
+          }}
+        >
+          Built for{" "}
+          <em
+            className="not-italic text-accent"
             style={{
-              background: plan.highlight ? "var(--surface2)" : "var(--surface)",
-              border: plan.highlight
-                ? "1px solid var(--accent)"
-                : "1px solid var(--border)",
+              fontStyle: "italic",
+              fontVariationSettings: '"opsz" 144, "SOFT" 80, "wght" 500',
             }}
           >
-            {plan.highlight && (
-              <div className="mb-4">
-                <span
-                  className="mono text-xs uppercase tracking-widest px-2 py-0.5 rounded"
-                  style={{
-                    color: "var(--accent)",
-                    background: "rgba(232,76,61,0.1)",
-                    border: "1px solid rgba(232,76,61,0.2)",
-                  }}
-                >
-                  Most Popular
-                </span>
+            operators
+          </em>
+          .
+        </h1>
+        <p
+          className="max-w-[720px] font-display italic text-text-muted"
+          style={{
+            fontVariationSettings: '"opsz" 36',
+            fontSize: "19px",
+            lineHeight: 1.5,
+          }}
+        >
+          {`Three tiers. No usage meter, no surprise overages, no contract you need legal to read. Cancel from your account page.`}
+        </p>
+        <div className="mt-6 font-mono text-[11px] uppercase tracking-[0.12em] text-text-dim">
+          14-day refund window · No card required for the free tier · Annual plans 2 months off
+        </div>
+      </header>
+
+      <main className="mx-auto max-w-[1320px] px-4 pb-20 lg:px-8">
+        <section className="grid grid-cols-1 gap-7 lg:grid-cols-3">
+          {PLANS.map((p) => (
+            <PlanCard key={p.name} plan={p} />
+          ))}
+        </section>
+
+        <section className="mt-12 border border-border bg-bg-elevated px-6 py-7 lg:px-10">
+          <div className="flex flex-col items-start justify-between gap-3 md:flex-row md:items-center">
+            <div>
+              <div className="mb-1.5 font-mono text-[11px] uppercase tracking-[0.14em] text-accent">
+                Not ready to subscribe?
               </div>
-            )}
-
-            <p
-              className="mono text-xs uppercase tracking-widest mb-2"
-              style={{ color: "var(--muted)" }}
-            >
-              {plan.name}
-            </p>
-
-            <div className="flex items-end gap-1 mb-2">
-              <span
-                className="display-font text-6xl leading-none"
-                style={{ color: "var(--text)" }}
+              <p
+                className="font-display italic text-text"
+                style={{
+                  fontVariationSettings: '"opsz" 24',
+                  fontSize: "17px",
+                  lineHeight: 1.45,
+                }}
               >
-                {plan.price}
-              </span>
-              <span className="text-base pb-1" style={{ color: "var(--muted)" }}>
-                {plan.period}
-              </span>
+                {`Browse this week’s issue free — the national map, the rankings, and the stories.`}
+              </p>
             </div>
-
-            <p className="text-sm mb-6" style={{ color: "var(--muted)" }}>
-              {plan.description}
-            </p>
-
-            <ul className="flex flex-col gap-2.5 mb-8 flex-1">
-              {plan.features.map((f) => (
-                <li key={f} className="flex items-start gap-2.5 text-sm">
-                  <span
-                    className="mt-0.5 shrink-0"
-                    style={{ color: "var(--accent3)" }}
-                  >
-                    &#10003;
-                  </span>
-                  <span style={{ color: "var(--text)" }}>{f}</span>
-                </li>
-              ))}
-            </ul>
-
             <Link
-              href={plan.href}
-              className="w-full py-3 rounded text-center font-semibold text-sm transition-all block"
-              style={
-                plan.highlight
-                  ? { background: "var(--accent)", color: "white" }
-                  : {
-                      border: "1px solid var(--border2)",
-                      color: "var(--text)",
-                    }
-              }
+              href="/"
+              className="rounded-full border border-border-strong px-5 py-2.5 font-sans text-[13px] font-medium text-text transition-colors hover:border-accent hover:text-accent"
             >
-              {plan.cta}
+              Read Issue № 142 →
             </Link>
           </div>
-        ))}
-      </div>
+        </section>
 
-      {/* Free tier note */}
-      <div
-        className="rounded-lg px-6 py-5 mb-20 text-center"
-        style={{
-          background: "var(--surface)",
-          border: "1px solid var(--border)",
-        }}
-      >
-        <p className="text-sm" style={{ color: "var(--muted)" }}>
-          Want to see the national view before subscribing?{" "}
-          <Link
-            href="/dashboard"
-            className="underline underline-offset-4"
-            style={{ color: "var(--text)" }}
-          >
-            Preview the dashboard
-          </Link>{" "}
-          — national metrics visible on the free tier, no credit card required.
-        </p>
-      </div>
-
-      {/* FAQ */}
-      <div>
-        <h2
-          className="display-font text-4xl mb-8"
-          style={{ color: "var(--text)" }}
-        >
-          COMMON QUESTIONS
-        </h2>
-        <div className="flex flex-col gap-0">
-          {FAQ.map(({ q, a }, i) => (
-            <div
-              key={i}
-              className="py-6"
-              style={{
-                borderTop: "1px solid var(--border)",
-              }}
-            >
-              <p
-                className="text-sm font-semibold mb-2"
-                style={{ color: "var(--text)" }}
+        <section className="mt-16">
+          <div className="mb-6 flex items-end justify-between border-b border-text pb-3.5">
+            <div className="flex items-baseline gap-4">
+              <span className="font-mono text-[11px] uppercase tracking-[0.16em] text-accent">
+                § FAQ
+              </span>
+              <h2
+                className="font-display leading-none tracking-[-0.025em]"
+                style={{
+                  fontVariationSettings: '"opsz" 144, "SOFT" 40, "wght" 500',
+                  fontSize: "clamp(28px, 3.6vw, 38px)",
+                }}
               >
-                {q}
-              </p>
-              <p className="text-sm leading-relaxed" style={{ color: "var(--muted)" }}>
-                {a}
-              </p>
+                Common{" "}
+                <em
+                  className="not-italic text-accent"
+                  style={{
+                    fontStyle: "italic",
+                    fontVariationSettings: '"opsz" 144, "SOFT" 80, "wght" 500',
+                  }}
+                >
+                  questions
+                </em>
+              </h2>
             </div>
-          ))}
-          <div style={{ borderTop: "1px solid var(--border)" }} />
-        </div>
-      </div>
-    </div>
+            <span className="hidden font-mono text-[11px] uppercase tracking-[0.12em] text-text-muted md:block">
+              5 answers · 2 min read
+            </span>
+          </div>
+
+          <div className="grid grid-cols-1 gap-px bg-border md:grid-cols-2">
+            {FAQ.map((item) => (
+              <article
+                key={item.q}
+                className="bg-bg-card px-7 py-7"
+              >
+                <h3
+                  className="mb-3 font-display italic text-text"
+                  style={{
+                    fontVariationSettings: '"opsz" 36, "SOFT" 50, "wght" 500',
+                    fontSize: "22px",
+                    lineHeight: 1.25,
+                    letterSpacing: "-0.01em",
+                  }}
+                >
+                  {item.q}
+                </h3>
+                <p className="font-mono text-[13px] leading-[1.6] text-text-muted">
+                  {item.a}
+                </p>
+              </article>
+            ))}
+            {FAQ.length % 2 === 1 && <div className="hidden bg-bg md:block" />}
+          </div>
+        </section>
+      </main>
+      <SiteFooter />
+    </>
   );
 }
