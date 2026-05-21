@@ -1,0 +1,1722 @@
+{
+  "last_updated": "2026-02-16T19:16:12.081850",
+  "collection_method": "dynamic_rising_searches",
+  "timeframe": "last_24_hours",
+  "state_data": {
+    "Alabama": {
+      "anxiety": 2,
+      "hope": 6,
+      "stress": 2,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "miami dolphins news",
+          "value": 20050,
+          "related_searches": []
+        },
+        {
+          "concern": "fox ten news mobile al",
+          "value": 16550,
+          "related_searches": []
+        },
+        {
+          "concern": "isreal news",
+          "value": 7500,
+          "related_searches": []
+        },
+        {
+          "concern": "msn news",
+          "value": 190,
+          "related_searches": []
+        },
+        {
+          "concern": "yellowhammer news",
+          "value": 170,
+          "related_searches": []
+        }
+      ]
+    },
+    "Alaska": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 1,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "49ers news",
+          "value": 41300,
+          "related_searches": []
+        },
+        {
+          "concern": "kyuk news",
+          "value": 33400,
+          "related_searches": []
+        },
+        {
+          "concern": "the hill news",
+          "value": 28900,
+          "related_searches": []
+        },
+        {
+          "concern": "alaska's news source",
+          "value": 26500,
+          "related_searches": []
+        },
+        {
+          "concern": "revolver news",
+          "value": 24500,
+          "related_searches": []
+        }
+      ]
+    },
+    "Arizona": {
+      "anxiety": 7,
+      "hope": 6,
+      "stress": 5,
+      "fear": 5,
+      "depression": 2,
+      "top_concerns": [
+        {
+          "concern": "stock market news today",
+          "value": 140,
+          "related_searches": []
+        },
+        {
+          "concern": "havasu news",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "las vegas news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "chicago bears news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "az cardinals news",
+          "value": 60,
+          "related_searches": []
+        }
+      ]
+    },
+    "Arkansas": {
+      "anxiety": 0,
+      "hope": 2,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "40 29 news",
+          "value": 25800,
+          "related_searches": []
+        },
+        {
+          "concern": "foxs news",
+          "value": 18300,
+          "related_searches": []
+        },
+        {
+          "concern": "kdqn news",
+          "value": 12800,
+          "related_searches": []
+        },
+        {
+          "concern": "military news now",
+          "value": 7350,
+          "related_searches": []
+        },
+        {
+          "concern": "4029 news",
+          "value": 190,
+          "related_searches": []
+        }
+      ]
+    },
+    "California": {
+      "anxiety": 39,
+      "hope": 31,
+      "stress": 43,
+      "fear": 29,
+      "depression": 25,
+      "top_concerns": [
+        {
+          "concern": "channel 7 news los angeles",
+          "value": 80,
+          "related_searches": []
+        },
+        {
+          "concern": "las vegas news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "ksby news",
+          "value": 40,
+          "related_searches": []
+        }
+      ]
+    },
+    "Colorado": {
+      "anxiety": 4,
+      "hope": 2,
+      "stress": 4,
+      "fear": 3,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "hacker news",
+          "value": 10000,
+          "related_searches": []
+        },
+        {
+          "concern": "erie colorado news",
+          "value": 170,
+          "related_searches": []
+        },
+        {
+          "concern": "seco news",
+          "value": 110,
+          "related_searches": []
+        },
+        {
+          "concern": "todays news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "cuba news",
+          "value": 50,
+          "related_searches": []
+        }
+      ]
+    },
+    "Connecticut": {
+      "anxiety": 1,
+      "hope": 1,
+      "stress": 1,
+      "fear": 1,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "pawtucket news",
+          "value": 51350,
+          "related_searches": []
+        },
+        {
+          "concern": "pawtucket ri news",
+          "value": 28000,
+          "related_searches": []
+        },
+        {
+          "concern": "wilton ct news",
+          "value": 24750,
+          "related_searches": []
+        },
+        {
+          "concern": "rhode island news",
+          "value": 1500,
+          "related_searches": []
+        },
+        {
+          "concern": "ri news",
+          "value": 900,
+          "related_searches": []
+        }
+      ]
+    },
+    "Delaware": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "ukraine news",
+          "value": 41950,
+          "related_searches": []
+        },
+        {
+          "concern": "baltimore orioles news",
+          "value": 39500,
+          "related_searches": []
+        },
+        {
+          "concern": "rhode island news",
+          "value": 39250,
+          "related_searches": []
+        },
+        {
+          "concern": "news journal obits",
+          "value": 38950,
+          "related_searches": []
+        },
+        {
+          "concern": "new york mets news",
+          "value": 27250,
+          "related_searches": []
+        }
+      ]
+    },
+    "Florida": {
+      "anxiety": 31,
+      "hope": 24,
+      "stress": 27,
+      "fear": 18,
+      "depression": 14,
+      "top_concerns": [
+        {
+          "concern": "dolphins news",
+          "value": 150,
+          "related_searches": []
+        },
+        {
+          "concern": "miami dolphins news",
+          "value": 140,
+          "related_searches": []
+        },
+        {
+          "concern": "cnbc news",
+          "value": 80,
+          "related_searches": []
+        },
+        {
+          "concern": "gulf coast news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "stock market news today",
+          "value": 50,
+          "related_searches": []
+        }
+      ]
+    },
+    "Georgia": {
+      "anxiety": 20,
+      "hope": 19,
+      "stress": 15,
+      "fear": 10,
+      "depression": 7,
+      "top_concerns": [
+        {
+          "concern": "michael jordan news",
+          "value": 750,
+          "related_searches": []
+        },
+        {
+          "concern": "todays news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "wjcl news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "rome news tribune",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "auburn football news",
+          "value": 50,
+          "related_searches": []
+        }
+      ]
+    },
+    "Hawaii": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "kapolei news",
+          "value": 61750,
+          "related_searches": []
+        },
+        {
+          "concern": "kauai news now",
+          "value": 23450,
+          "related_searches": []
+        },
+        {
+          "concern": "kitv 4 news",
+          "value": 20750,
+          "related_searches": []
+        },
+        {
+          "concern": "pacific business news",
+          "value": 19750,
+          "related_searches": []
+        },
+        {
+          "concern": "ksl news",
+          "value": 18450,
+          "related_searches": []
+        }
+      ]
+    },
+    "Idaho": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "boise news stations",
+          "value": 14550,
+          "related_searches": []
+        },
+        {
+          "concern": "us military news",
+          "value": 13750,
+          "related_searches": []
+        },
+        {
+          "concern": "bronco nation news",
+          "value": 10500,
+          "related_searches": []
+        },
+        {
+          "concern": "fox news headlines",
+          "value": 8150,
+          "related_searches": []
+        },
+        {
+          "concern": "dolphins news",
+          "value": 200,
+          "related_searches": []
+        }
+      ]
+    },
+    "Illinois": {
+      "anxiety": 22,
+      "hope": 16,
+      "stress": 20,
+      "fear": 11,
+      "depression": 9,
+      "top_concerns": [
+        {
+          "concern": "wspy news",
+          "value": 160,
+          "related_searches": []
+        },
+        {
+          "concern": "lincoln daily news",
+          "value": 130,
+          "related_searches": []
+        },
+        {
+          "concern": "today's news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "fox 2 news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "msn news",
+          "value": 50,
+          "related_searches": []
+        }
+      ]
+    },
+    "Indiana": {
+      "anxiety": 7,
+      "hope": 5,
+      "stress": 4,
+      "fear": 2,
+      "depression": 2,
+      "top_concerns": [
+        {
+          "concern": "hometown news laporte",
+          "value": 22300,
+          "related_searches": []
+        },
+        {
+          "concern": "beech grove news",
+          "value": 6150,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 8 news indianapolis",
+          "value": 400,
+          "related_searches": []
+        },
+        {
+          "concern": "ball state news",
+          "value": 300,
+          "related_searches": []
+        },
+        {
+          "concern": "goshen news",
+          "value": 300,
+          "related_searches": []
+        }
+      ]
+    },
+    "Iowa": {
+      "anxiety": 0,
+      "hope": 1,
+      "stress": 1,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "kc chiefs news",
+          "value": 10150,
+          "related_searches": []
+        },
+        {
+          "concern": "explore okoboji news",
+          "value": 350,
+          "related_searches": []
+        },
+        {
+          "concern": "cubs news and rumors",
+          "value": 300,
+          "related_searches": []
+        },
+        {
+          "concern": "top news today",
+          "value": 180,
+          "related_searches": []
+        },
+        {
+          "concern": "ottumwa radio news",
+          "value": 100,
+          "related_searches": []
+        }
+      ]
+    },
+    "Kansas": {
+      "anxiety": 8,
+      "hope": 4,
+      "stress": 9,
+      "fear": 1,
+      "depression": 4,
+      "top_concerns": [
+        {
+          "concern": "tyreek hill news",
+          "value": 800,
+          "related_searches": []
+        },
+        {
+          "concern": "ksal news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "stock market news today",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "ap news",
+          "value": 40,
+          "related_searches": []
+        }
+      ]
+    },
+    "Kentucky": {
+      "anxiety": 3,
+      "hope": 2,
+      "stress": 1,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "lifetouch photography news",
+          "value": 8450,
+          "related_searches": []
+        },
+        {
+          "concern": "ufc news",
+          "value": 150,
+          "related_searches": []
+        },
+        {
+          "concern": "aol news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "wcpo news",
+          "value": 80,
+          "related_searches": []
+        },
+        {
+          "concern": "whop news",
+          "value": 70,
+          "related_searches": []
+        }
+      ]
+    },
+    "Louisiana": {
+      "anxiety": 0,
+      "hope": 1,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "cbs news live",
+          "value": 20400,
+          "related_searches": []
+        },
+        {
+          "concern": "npr news",
+          "value": 400,
+          "related_searches": []
+        },
+        {
+          "concern": "boxing news",
+          "value": 300,
+          "related_searches": []
+        },
+        {
+          "concern": "oan news",
+          "value": 170,
+          "related_searches": []
+        },
+        {
+          "concern": "top news today",
+          "value": 80,
+          "related_searches": []
+        }
+      ]
+    },
+    "Maine": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "channel 13 news maine",
+          "value": 56450,
+          "related_searches": []
+        },
+        {
+          "concern": "wcsh6 news",
+          "value": 38950,
+          "related_searches": []
+        },
+        {
+          "concern": "national news today",
+          "value": 34800,
+          "related_searches": []
+        },
+        {
+          "concern": "sky news",
+          "value": 20350,
+          "related_searches": []
+        },
+        {
+          "concern": "donald trump news",
+          "value": 19350,
+          "related_searches": []
+        }
+      ]
+    },
+    "Maryland": {
+      "anxiety": 6,
+      "hope": 5,
+      "stress": 5,
+      "fear": 3,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "eagles news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "today's news",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "stock market news today",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "msn news",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "latest trump news",
+          "value": 40,
+          "related_searches": []
+        }
+      ]
+    },
+    "Massachusetts": {
+      "anxiety": 7,
+      "hope": 3,
+      "stress": 6,
+      "fear": 2,
+      "depression": 2,
+      "top_concerns": [
+        {
+          "concern": "rhode island shooting news",
+          "value": 40250,
+          "related_searches": []
+        },
+        {
+          "concern": "pawtucket news",
+          "value": 4550,
+          "related_searches": []
+        },
+        {
+          "concern": "rhode island news",
+          "value": 700,
+          "related_searches": []
+        },
+        {
+          "concern": "ri news",
+          "value": 650,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 12 news",
+          "value": 550,
+          "related_searches": []
+        }
+      ]
+    },
+    "Michigan": {
+      "anxiety": 12,
+      "hope": 15,
+      "stress": 8,
+      "fear": 4,
+      "depression": 3,
+      "top_concerns": [
+        {
+          "concern": "iron mountain daily news",
+          "value": 190,
+          "related_searches": []
+        },
+        {
+          "concern": "whmi news",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "cadillac news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "alpena news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "stellantis news",
+          "value": 70,
+          "related_searches": []
+        }
+      ]
+    },
+    "Minnesota": {
+      "anxiety": 3,
+      "hope": 10,
+      "stress": 2,
+      "fear": 2,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "michael jordan news",
+          "value": 600,
+          "related_searches": []
+        },
+        {
+          "concern": "today's news",
+          "value": 110,
+          "related_searches": []
+        },
+        {
+          "concern": "stock market news today",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "kwlm news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "headline news",
+          "value": 80,
+          "related_searches": []
+        }
+      ]
+    },
+    "Mississippi": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "mlb news",
+          "value": 31350,
+          "related_searches": []
+        },
+        {
+          "concern": "nbc breaking news",
+          "value": 25250,
+          "related_searches": []
+        },
+        {
+          "concern": "any news on nancy guthrie",
+          "value": 18350,
+          "related_searches": []
+        },
+        {
+          "concern": "abc live news",
+          "value": 17300,
+          "related_searches": []
+        },
+        {
+          "concern": "titans news",
+          "value": 16400,
+          "related_searches": []
+        }
+      ]
+    },
+    "Missouri": {
+      "anxiety": 3,
+      "hope": 3,
+      "stress": 1,
+      "fear": 2,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "tyreek hill news",
+          "value": 42100,
+          "related_searches": []
+        },
+        {
+          "concern": "fulton mo news",
+          "value": 550,
+          "related_searches": []
+        },
+        {
+          "concern": "fox 4 news kc",
+          "value": 200,
+          "related_searches": []
+        },
+        {
+          "concern": "fox 2 news stl",
+          "value": 190,
+          "related_searches": []
+        },
+        {
+          "concern": "muddy river news",
+          "value": 110,
+          "related_searches": []
+        }
+      ]
+    },
+    "Montana": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "fcs news",
+          "value": 25550,
+          "related_searches": []
+        },
+        {
+          "concern": "hungry horse news",
+          "value": 19650,
+          "related_searches": []
+        },
+        {
+          "concern": "celebrity news",
+          "value": 18750,
+          "related_searches": []
+        },
+        {
+          "concern": "fox news headlines",
+          "value": 14000,
+          "related_searches": []
+        },
+        {
+          "concern": "havre daily news",
+          "value": 450,
+          "related_searches": []
+        }
+      ]
+    },
+    "Nebraska": {
+      "anxiety": 1,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "fox breaking news",
+          "value": 27500,
+          "related_searches": []
+        },
+        {
+          "concern": "10 11 news",
+          "value": 24300,
+          "related_searches": []
+        },
+        {
+          "concern": "hacker news",
+          "value": 18800,
+          "related_searches": []
+        },
+        {
+          "concern": "fake news story",
+          "value": 9650,
+          "related_searches": []
+        },
+        {
+          "concern": "nebraska baseball news",
+          "value": 450,
+          "related_searches": []
+        }
+      ]
+    },
+    "Nevada": {
+      "anxiety": 0,
+      "hope": 1,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "rio las vegas news",
+          "value": 51600,
+          "related_searches": []
+        },
+        {
+          "concern": "rio hotel news",
+          "value": 33200,
+          "related_searches": []
+        },
+        {
+          "concern": "ksl news",
+          "value": 7950,
+          "related_searches": []
+        },
+        {
+          "concern": "8 news now las vegas",
+          "value": 550,
+          "related_searches": []
+        },
+        {
+          "concern": "chicago bears news",
+          "value": 200,
+          "related_searches": []
+        }
+      ]
+    },
+    "New Hampshire": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 1,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "rhode island news",
+          "value": 76300,
+          "related_searches": []
+        },
+        {
+          "concern": "providence news",
+          "value": 39750,
+          "related_searches": []
+        },
+        {
+          "concern": "scholastic news",
+          "value": 33000,
+          "related_searches": []
+        },
+        {
+          "concern": "sky news",
+          "value": 21700,
+          "related_searches": []
+        },
+        {
+          "concern": "steelers news",
+          "value": 20550,
+          "related_searches": []
+        }
+      ]
+    },
+    "New Jersey": {
+      "anxiety": 9,
+      "hope": 11,
+      "stress": 8,
+      "fear": 5,
+      "depression": 3,
+      "top_concerns": [
+        {
+          "concern": "sixers news",
+          "value": 190,
+          "related_searches": []
+        },
+        {
+          "concern": "nj transit news",
+          "value": 150,
+          "related_searches": []
+        },
+        {
+          "concern": "fox news live",
+          "value": 120,
+          "related_searches": []
+        },
+        {
+          "concern": "miami dolphins news",
+          "value": 120,
+          "related_searches": []
+        },
+        {
+          "concern": "cnbc news",
+          "value": 60,
+          "related_searches": []
+        }
+      ]
+    },
+    "New Mexico": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "world news today",
+          "value": 30500,
+          "related_searches": []
+        },
+        {
+          "concern": "miami dolphins news",
+          "value": 16100,
+          "related_searches": []
+        },
+        {
+          "concern": "german news",
+          "value": 14050,
+          "related_searches": []
+        },
+        {
+          "concern": "valencia county news bulletin",
+          "value": 13200,
+          "related_searches": []
+        },
+        {
+          "concern": "detroit lions news",
+          "value": 11000,
+          "related_searches": []
+        }
+      ]
+    },
+    "New York": {
+      "anxiety": 38,
+      "hope": 26,
+      "stress": 37,
+      "fear": 22,
+      "depression": 22,
+      "top_concerns": [
+        {
+          "concern": "finger lakes daily news",
+          "value": 80,
+          "related_searches": []
+        },
+        {
+          "concern": "google news",
+          "value": 80,
+          "related_searches": []
+        },
+        {
+          "concern": "miami dolphins news",
+          "value": 70,
+          "related_searches": []
+        }
+      ]
+    },
+    "North Carolina": {
+      "anxiety": 13,
+      "hope": 19,
+      "stress": 11,
+      "fear": 16,
+      "depression": 6,
+      "top_concerns": [
+        {
+          "concern": "mount airy news",
+          "value": 10150,
+          "related_searches": []
+        },
+        {
+          "concern": "wtvd 11 news",
+          "value": 180,
+          "related_searches": []
+        },
+        {
+          "concern": "durham nc news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "ny giants news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "durham news",
+          "value": 60,
+          "related_searches": []
+        }
+      ]
+    },
+    "North Dakota": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 1,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "valley news live weather",
+          "value": 81200,
+          "related_searches": []
+        },
+        {
+          "concern": "kx news bismarck",
+          "value": 62750,
+          "related_searches": []
+        },
+        {
+          "concern": "us iran news",
+          "value": 58100,
+          "related_searches": []
+        },
+        {
+          "concern": "kfgo news",
+          "value": 50700,
+          "related_searches": []
+        },
+        {
+          "concern": "vnl news",
+          "value": 44100,
+          "related_searches": []
+        }
+      ]
+    },
+    "Ohio": {
+      "anxiety": 21,
+      "hope": 17,
+      "stress": 16,
+      "fear": 10,
+      "depression": 8,
+      "top_concerns": [
+        {
+          "concern": "tipp city news",
+          "value": 2650,
+          "related_searches": []
+        },
+        {
+          "concern": "jordan miller news",
+          "value": 190,
+          "related_searches": []
+        },
+        {
+          "concern": "wdtn news",
+          "value": 140,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 7 news",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "todays news",
+          "value": 90,
+          "related_searches": []
+        }
+      ]
+    },
+    "Oklahoma": {
+      "anxiety": 2,
+      "hope": 1,
+      "stress": 2,
+      "fear": 1,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "cleveland browns news",
+          "value": 250,
+          "related_searches": []
+        },
+        {
+          "concern": "just the news",
+          "value": 140,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 4 news okc",
+          "value": 140,
+          "related_searches": []
+        },
+        {
+          "concern": "sooner football news",
+          "value": 120,
+          "related_searches": []
+        },
+        {
+          "concern": "okc news today",
+          "value": 100,
+          "related_searches": []
+        }
+      ]
+    },
+    "Oregon": {
+      "anxiety": 2,
+      "hope": 1,
+      "stress": 1,
+      "fear": 1,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "miami dolphins news",
+          "value": 130,
+          "related_searches": []
+        },
+        {
+          "concern": "newsmax",
+          "value": 110,
+          "related_searches": []
+        },
+        {
+          "concern": "chargers news",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "mariners news",
+          "value": 80,
+          "related_searches": []
+        },
+        {
+          "concern": "artificial intelligence news",
+          "value": 60,
+          "related_searches": []
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "anxiety": 23,
+      "hope": 19,
+      "stress": 17,
+      "fear": 10,
+      "depression": 10,
+      "top_concerns": [
+        {
+          "concern": "miami dolphins news",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "wtaj news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "new castle news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "msn news",
+          "value": 40,
+          "related_searches": []
+        }
+      ]
+    },
+    "Rhode Island": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "pawtucket ri news",
+          "value": 353000,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 10 news rhode island",
+          "value": 48350,
+          "related_searches": []
+        },
+        {
+          "concern": "stock market news today",
+          "value": 31050,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 12 news ri today",
+          "value": 27400,
+          "related_searches": []
+        },
+        {
+          "concern": "local news today",
+          "value": 21700,
+          "related_searches": []
+        }
+      ]
+    },
+    "South Carolina": {
+      "anxiety": 2,
+      "hope": 6,
+      "stress": 3,
+      "fear": 2,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "live five news",
+          "value": 500,
+          "related_searches": []
+        },
+        {
+          "concern": "trump news today",
+          "value": 300,
+          "related_searches": []
+        },
+        {
+          "concern": "carolina panthers news",
+          "value": 200,
+          "related_searches": []
+        },
+        {
+          "concern": "wgog news",
+          "value": 110,
+          "related_searches": []
+        },
+        {
+          "concern": "wtoc news",
+          "value": 90,
+          "related_searches": []
+        }
+      ]
+    },
+    "South Dakota": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "drg news",
+          "value": 59400,
+          "related_searches": []
+        },
+        {
+          "concern": "yankees news",
+          "value": 43350,
+          "related_searches": []
+        },
+        {
+          "concern": "today's news",
+          "value": 36600,
+          "related_searches": []
+        },
+        {
+          "concern": "msn news breaking news",
+          "value": 36250,
+          "related_searches": []
+        },
+        {
+          "concern": "kevn news",
+          "value": 34600,
+          "related_searches": []
+        }
+      ]
+    },
+    "Tennessee": {
+      "anxiety": 7,
+      "hope": 7,
+      "stress": 5,
+      "fear": 2,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "browns news",
+          "value": 500,
+          "related_searches": []
+        },
+        {
+          "concern": "action news 5",
+          "value": 250,
+          "related_searches": []
+        },
+        {
+          "concern": "tennessee vols football news",
+          "value": 120,
+          "related_searches": []
+        },
+        {
+          "concern": "knoxville news sentinel obituaries",
+          "value": 120,
+          "related_searches": []
+        },
+        {
+          "concern": "entertainment news",
+          "value": 80,
+          "related_searches": []
+        }
+      ]
+    },
+    "Texas": {
+      "anxiety": 28,
+      "hope": 20,
+      "stress": 27,
+      "fear": 17,
+      "depression": 14,
+      "top_concerns": [
+        {
+          "concern": "robert duvall news",
+          "value": 61150,
+          "related_searches": []
+        },
+        {
+          "concern": "michael jordan news",
+          "value": 450,
+          "related_searches": []
+        },
+        {
+          "concern": "msn news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "news channel 10",
+          "value": 50,
+          "related_searches": []
+        }
+      ]
+    },
+    "Utah": {
+      "anxiety": 3,
+      "hope": 2,
+      "stress": 1,
+      "fear": 3,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "fox13 news utah",
+          "value": 19150,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 3 news las vegas",
+          "value": 2700,
+          "related_searches": []
+        },
+        {
+          "concern": "abc4 news",
+          "value": 450,
+          "related_searches": []
+        },
+        {
+          "concern": "herriman news",
+          "value": 400,
+          "related_searches": []
+        },
+        {
+          "concern": "bountiful news",
+          "value": 300,
+          "related_searches": []
+        }
+      ]
+    },
+    "Vermont": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "miami dolphins news",
+          "value": 57600,
+          "related_searches": []
+        },
+        {
+          "concern": "townhall news",
+          "value": 40700,
+          "related_searches": []
+        },
+        {
+          "concern": "trump news today",
+          "value": 38950,
+          "related_searches": []
+        },
+        {
+          "concern": "yahoo.com news",
+          "value": 32100,
+          "related_searches": []
+        },
+        {
+          "concern": "chiefs news",
+          "value": 26950,
+          "related_searches": []
+        }
+      ]
+    },
+    "Virginia": {
+      "anxiety": 16,
+      "hope": 11,
+      "stress": 16,
+      "fear": 8,
+      "depression": 8,
+      "top_concerns": [
+        {
+          "concern": "daily news record",
+          "value": 130,
+          "related_searches": []
+        },
+        {
+          "concern": "hacker news",
+          "value": 100,
+          "related_searches": []
+        },
+        {
+          "concern": "fairfax news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "npr news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "newport news waterworks",
+          "value": 70,
+          "related_searches": []
+        }
+      ]
+    },
+    "Washington": {
+      "anxiety": 3,
+      "hope": 1,
+      "stress": 2,
+      "fear": 0,
+      "depression": 1,
+      "top_concerns": [
+        {
+          "concern": "cascadia daily news",
+          "value": 70,
+          "related_searches": []
+        },
+        {
+          "concern": "peninsula daily news",
+          "value": 60,
+          "related_searches": []
+        },
+        {
+          "concern": "49ers news",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "katu news",
+          "value": 50,
+          "related_searches": []
+        },
+        {
+          "concern": "q13 fox news",
+          "value": 50,
+          "related_searches": []
+        }
+      ]
+    },
+    "West Virginia": {
+      "anxiety": 1,
+      "hope": 3,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "wv daily news",
+          "value": 37700,
+          "related_searches": []
+        },
+        {
+          "concern": "pittsburgh pirates news",
+          "value": 23800,
+          "related_searches": []
+        },
+        {
+          "concern": "j&j news facebook",
+          "value": 22000,
+          "related_searches": []
+        },
+        {
+          "concern": "wdtv 5 news",
+          "value": 10150,
+          "related_searches": []
+        },
+        {
+          "concern": "ap news",
+          "value": 400,
+          "related_searches": []
+        }
+      ]
+    },
+    "Wisconsin": {
+      "anxiety": 4,
+      "hope": 5,
+      "stress": 3,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "49ers news",
+          "value": 200,
+          "related_searches": []
+        },
+        {
+          "concern": "beloit daily news",
+          "value": 150,
+          "related_searches": []
+        },
+        {
+          "concern": "northern news now",
+          "value": 140,
+          "related_searches": []
+        },
+        {
+          "concern": "whbl news",
+          "value": 90,
+          "related_searches": []
+        },
+        {
+          "concern": "marshfield news herald",
+          "value": 90,
+          "related_searches": []
+        }
+      ]
+    },
+    "Wyoming": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "msnbc news",
+          "value": 53150,
+          "related_searches": []
+        },
+        {
+          "concern": "utah jazz news",
+          "value": 37900,
+          "related_searches": []
+        },
+        {
+          "concern": "ksl news",
+          "value": 37750,
+          "related_searches": []
+        },
+        {
+          "concern": "svi news",
+          "value": 33950,
+          "related_searches": []
+        },
+        {
+          "concern": "capcity news",
+          "value": 24850,
+          "related_searches": []
+        }
+      ]
+    },
+    "District of Columbia": {
+      "anxiety": 0,
+      "hope": 0,
+      "stress": 0,
+      "fear": 0,
+      "depression": 0,
+      "top_concerns": [
+        {
+          "concern": "reno news",
+          "value": 54300,
+          "related_searches": []
+        },
+        {
+          "concern": "man city news",
+          "value": 450,
+          "related_searches": []
+        },
+        {
+          "concern": "ukraine news",
+          "value": 300,
+          "related_searches": []
+        },
+        {
+          "concern": "ap news",
+          "value": 170,
+          "related_searches": []
+        },
+        {
+          "concern": "channel 4 news dc",
+          "value": 150,
+          "related_searches": []
+        }
+      ]
+    }
+  },
+  "national_stats": {
+    "national_anxiety": 6.8,
+    "national_hope": 6.0,
+    "national_stress": 6.0,
+    "national_fear": 3.7
+  },
+  "aggregated": {
+    "emotions": {
+      "anxiety": 6.8,
+      "hope": 6.0,
+      "stress": 6.0,
+      "fear": 3.7,
+      "sadness": 0,
+      "optimism": 6.0
+    }
+  }
+}
